@@ -1,0 +1,14 @@
+c:\users\lexicon\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+c:\users\lexicon\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+c:\users\lexicon\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+c:\users\lexicon\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ArenaFighter.csprojResolveAssemblyReference.cache
+c:\users\lexicon\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ArenaFighter.csproj.CoreCompileInputs.cache
+c:\users\lexicon\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+c:\users\lexicon\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Lexicon\source\repos\ArenaFighter\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Lexicon\source\repos\ArenaFighter\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Lexicon\source\repos\ArenaFighter\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Lexicon\source\repos\ArenaFighter\ConsoleApp2\obj\Debug\ArenaFighter.csprojResolveAssemblyReference.cache
+C:\Users\Lexicon\source\repos\ArenaFighter\ConsoleApp2\obj\Debug\ArenaFighter.csproj.CoreCompileInputs.cache
+C:\Users\Lexicon\source\repos\ArenaFighter\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Lexicon\source\repos\ArenaFighter\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
